@@ -9,3 +9,4 @@ A simple 👀 tracking and 👦 detection android app, made using Google vision 
 
 ## When Eyes Detected & Open
 
+## When Eyes Detected & Closed
