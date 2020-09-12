@@ -6,3 +6,6 @@ A simple 👀 tracking and 👦 detection android app, made using Google vision 
 
 ## Face Not Detected
 <img src="https://user-images.githubusercontent.com/57246923/92992617-daa55300-f509-11ea-8a65-b00ad0d218b2.jpg" height="450" width="300">
+
+## When Eyes Detected & Open
+
