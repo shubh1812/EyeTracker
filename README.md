@@ -12,3 +12,6 @@ A simple 👀 tracking and 👦 detection android app, made using Google vision 
 <img src="https://user-images.githubusercontent.com/57246923/92992684-50112380-f50a-11ea-847e-a77f1de698b5.jpg" height="450" width="300">
     
 ## When Eyes Detected & Closed
+
+<img src="https://user-images.githubusercontent.com/57246923/92992720-8f3f7480-f50a-11ea-846b-fec08b71fdea.jpg" height="450" width="300">
+
